@@ -23,7 +23,7 @@
     <repository>
      <id>Rakhi</id>
      <name>Rakhi</name>
-     <url>https://localhost:8081/nexus/content/repositories/Rakhi/</url>
+     <url>http://localhost:8081/nexus/content/repositories/Rakhi/</url>
     </repository>
    </distributionManagement>  
   <dependencies>
