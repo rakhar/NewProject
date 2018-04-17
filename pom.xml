@@ -21,9 +21,9 @@
   </build>
    <distributionManagement>
     <repository>
-     <id>Rakhi</id>
-     <name>Rakhi</name>
-     <url>http://localhost:8081/nexus/content/repositories/Rakhi/</url>
+     <id>snapshots</id>
+     <name>Snapshots</name>
+     <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
     </repository>
    </distributionManagement>  
   <dependencies>
