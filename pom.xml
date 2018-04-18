@@ -4,7 +4,7 @@
 	<groupId>org.ravi</groupId>
 	<artifactId>Helloworld</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>HelloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
   <build>
@@ -21,9 +21,9 @@
   </build>
    <distributionManagement>
     <repository>
-     <id>snapshots</id>
-     <name>Snapshots</name>
-     <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+     <id>releases</id>
+     <name>Releases</name>
+     <url>http://localhost:8081/nexus/content/repositories/releases</url>
     </repository>
    </distributionManagement>  
   <dependencies>
