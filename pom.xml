@@ -46,9 +46,9 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>snapshots</id>
-			<name>Snapshots</name>
-			<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+			<id>ExampleProject</id>
+			<name>ExampleProject</name>
+			<url>http://localhost:8081/nexus/content/repositories/ExampleProject/</url>
 		</repository>
 	</distributionManagement>
 	
