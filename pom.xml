@@ -46,9 +46,9 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>ExampleProject</id>
-			<name>ExampleProject</name>
-			<url>http://localhost:8081/nexus/content/repositories/ExampleProject/</url>
+			<id>MyFirstRepository</id>
+			<name>MyFirstRepository</name>
+			<url>https://jcenter.bintray.com/</url>
 		</repository>
 	</distributionManagement>
 	
